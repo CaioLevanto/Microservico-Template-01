@@ -1,0 +1,4 @@
+br\com\mucatour\core\model\AbstractEntity.class
+br\com\mucatour\core\model\Course$CourseBuilder.class
+br\com\mucatour\core\model\Course.class
+br\com\mucatour\core\repository\CourseRepository.class
